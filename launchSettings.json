@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HolaMundo!": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
